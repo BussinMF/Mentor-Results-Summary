@@ -1,5 +1,5 @@
 import '../styles/Summary.css';
-import { SummaryElements } from './SummaryElements';
+import { SummaryElements } from './SummaryElements.jsx';
 
 export function Summary () {
     return (
