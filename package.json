@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/Mentor-Results-Summary/dist/",
+  "homepage": "https://bussinmf.github.io/Mentor-Results-Summary/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
