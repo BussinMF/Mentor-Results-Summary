@@ -1,0 +1,22 @@
+#summary_container {
+    width: 100vw;
+    height: 55vh;
+}
+
+#summary_container_content {
+    padding: 20px 20px 20px 20px;
+}
+
+#continue_button_container {
+    display: flex;
+    justify-content: center;
+}
+
+#continue_button {
+    background-color: hsl(224, 30%, 27%);
+    color: white;
+    border-style: none;
+    border-radius: 30px;
+    width: 300px;
+    height: 55px;
+}
