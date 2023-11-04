@@ -5,10 +5,13 @@ import { Summary } from './Summary.jsx';
 function App() {
 
   return (
-    <>
-      <Result />
-      <Summary />
-    </>
+    <div id='overall_container'>
+      <div id="overall">
+        <Result />
+        <Summary />
+      </div>
+    </div>
+
   )
 }
 
