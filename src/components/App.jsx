@@ -10,8 +10,9 @@ function App() {
         <Result />
         <Summary />
       </div>
+      <p id="credits">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://github.com/BussinMF/Mentor-Qr-Code/commits?author=BussinMF">BussinMF</a></p>
     </div>
-
   )
 }
 
