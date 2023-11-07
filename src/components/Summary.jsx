@@ -9,7 +9,7 @@ export function Summary () {
                 <SummaryElements />
             </div>
             <div id='continue_button_container'>
-                <button type='button' id='continue_button' style={{fontSize:"1.2rem"}}>Continue</button>
+                <button type='button' id='continue_button'>Continue</button>
             </div>
             
         </div>
